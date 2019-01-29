@@ -15,7 +15,7 @@ window.inactive.client.color: #2f343f
 window.active.label.text.color: #9575cd
 window.inactive.label.text.color: #9575cd
 window.active.title.bg: flat solid
-window.active.title.bg.color: #815bc2
+window.active.title.bg.color: #2f343f
 window.active.label.bg: flat solid
 window.active.label.bg.color: #2f343f
 window.inactive.title.bg: flat solid
