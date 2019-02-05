@@ -13,7 +13,7 @@ window.inactive.title.separator.color: #2f343f
 window.active.client.color: #2f343f
 window.inactive.client.color: #2f343f
 window.active.label.text.color: #9575cd
-window.inactive.label.text.color: #9575cd
+window.inactive.label.text.color: #aaaaaa
 window.active.title.bg: flat solid
 window.active.title.bg.color: #2f343f
 window.active.label.bg: flat solid
@@ -49,7 +49,7 @@ menu.overlap.y: 0
 menu.border.color: #2f343f
 menu.separator.color: #2f343f
 menu.title.text.color: #9575cd
-menu.items.text.color: #9575cd
+menu.items.text.color: #ffffff
 menu.items.disabled.text.color: #aaaaaa
 menu.items.active.text.color: #9575cd
 menu.items.active.disabled.text.color: #2f343f
